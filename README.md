@@ -9,7 +9,7 @@ $ pip install git+https://github.com/OpenRobot-Packages/<Package Name>
 ```
 (this may be differ from yours)
 
-Any packages you install will automatically install this repository (https://github.com/OpenRobot-Packages/OpenRobot-Packages) branch, `git+https://github.com/OpenRobot-Packages/OpenRobot-Packages`. Note that this does not do anything and it has no code at all.
+Any packages you install will automatically install this repository (https://github.com/OpenRobot-Packages/OpenRobot-Packages) branch, `git+https://github.com/OpenRobot-Packages/Python-OpenRobot-Packages`. Note that this does not do anything and it has no code at all.
 
 ## Is OpenRobot Packages in PyPi?
 No, and probably never will. We want to integrate packages in one organization, and publishing it in PyPi one by one will be a hard time and hard work to do.
